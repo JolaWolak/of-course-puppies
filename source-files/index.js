@@ -1,1 +1,1 @@
-console.log('Hello front-end!');
+<h1>Hello</h1>

@@ -44,9 +44,13 @@
 /* 0 */
 /***/ function(module, exports) {
 
-	'use strict';
+	"use strict";
 	
-	console.log('Hello front-end!');
+	React.createElement(
+	  "h1",
+	  null,
+	  "Hello"
+	);
 
 /***/ }
 /******/ ]);
